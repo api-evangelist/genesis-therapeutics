@@ -47,7 +47,7 @@ modified: '2026-07-19'
 tags:
 - Company
 - Artificial Intelligence
-- Machine-Learning
+- Machine Learning
 - Drug Discovery
 - Biotechnology
 - Life Sciences
@@ -62,6 +62,7 @@ tags_raw:
 - Life Sciences
 - Pharmaceuticals
 - Molecular AI
+- Machine-Learning
 apis: []
 maintainers:
 - FN: Kin Lane
